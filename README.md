@@ -31,7 +31,7 @@ Reading English feels slow and exhausting not because of vocabulary, but because
 
 ## 配套 Agent Skills / Companion Agent Skills
 
-`skills/` 目录里有两个 skill，装到你的 AI agent 上之后，直接丢英文材料给它，它就会按这套方法带你练：
+`skills/` 目录里有两个 skill，装到你的 AI agent 上，直接丢英文材料给它，它按这套方法带你练：
 
 Two skills in `skills/` — install them into your AI agent, then just throw English material at it:
 
@@ -49,15 +49,15 @@ cp -R zhouyue-english-learning-method/skills/skeleton-first-reading ~/.agents/sk
 cp -R zhouyue-english-learning-method/skills/sound-loop-speaking ~/.agents/skills/
 ```
 
-或者直接把 `SKILL.md` 的内容贴给你的 agent，让它记住这套规则。
+或者直接把 `SKILL.md` 的内容贴给你的 agent 用。
 
 Or simply paste the SKILL.md content to your agent as standing instructions.
 
 ## 方法来源 / Origin
 
-这套方法不是看书看来的，是 2026 年 7-8 月在与 AI 的对话中一段一段试出来的：先试「原文→中文→中英夹杂」，发现「骨架英文+生词中文」读起来明显更快，追问为什么，然后逐步长成了完整体系。文档保留了当时的思考过程。
+这套方法不是看书看来的，是 2026 年 7-8 月和 AI 对话时一段一段试出来的：先试「原文→中文→中英夹杂」，发现「骨架英文+生词中文」读起来明显更快，追问为什么，方法就是这么长出来的。
 
-This method wasn't read from a book — it was discovered experimentally in conversations with AI (July-August 2026), and the documents preserve that thinking process.
+This method didn't come from a book. It was discovered through trial and error in conversations with AI (July–August 2026).
 
 ## License
 
