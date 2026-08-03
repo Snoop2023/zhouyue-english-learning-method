@@ -17,13 +17,13 @@
 
 ## 核心发现 / Core Insight
 
-读英文又慢又累，不是词汇量不够，是大脑里三个进程在同时跑：
+读英文又慢又累，因为大脑里有三个进程在同时跑：
 
 1. **结构焦虑**（最大头）——不知道句子多长、什么时候结束，全程绷着神经
 2. **被迫串行**——只能一个词一个词读，因为你不知道结构
 3. **生词翻译**（最小头）——真的不认识，停下来想意思
 
-Reading English feels slow and exhausting not because of vocabulary, but because three cognitive processes run simultaneously: structural anxiety (the biggest load), forced serial reading, and word translation (the smallest load, yet most overestimated).
+Reading English feels slow and exhausting because three cognitive processes run at once: structural anxiety (the biggest load), forced serial reading, and word translation (the smallest load, most overestimated).
 
 **解法：先灭掉最大的那个。** 把生词全部换成中文，只留英文骨架，让大脑一次只干一件事。
 
@@ -55,9 +55,9 @@ Or simply paste the SKILL.md content to your agent as standing instructions.
 
 ## 方法来源 / Origin
 
-这套方法不是看书看来的，是 2026 年 7-8 月和 AI 对话时一段一段试出来的：先试「原文→中文→中英夹杂」，发现「骨架英文+生词中文」读起来明显更快，追问为什么，方法就是这么长出来的。
+这套方法是 2026 年 7-8 月和 AI 对话时一段一段试出来的：先试「原文→中文→中英夹杂」，发现「骨架英文+生词中文」读起来明显更快，追问为什么，方法就是这么长出来的。
 
-This method didn't come from a book. It was discovered through trial and error in conversations with AI (July–August 2026).
+This method was discovered through trial and error in conversations with AI (July–August 2026).
 
 ## License
 
