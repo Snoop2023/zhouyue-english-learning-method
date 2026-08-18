@@ -12,10 +12,16 @@
 
 | 文档 | 内容 | Document | About |
 |---|---|---|---|
-| [周越英语学习法_阅读.md](周越英语学习法_阅读.md) | 五级骨架递进法：骨架留英文、生词换中文，S1→S2→S3→原文 | Reading | Five-level skeleton-first reading: keep sentence skeletons in English, swap hard words for Chinese, then progressively restore English |
 | [周越英语学习法_口语.md](周越英语学习法_口语.md) | 输出倒逼输入的口播循环系统：0 启动、IG 口播素材、learn in public | Speaking | Output-driven speaking loop: zero-threshold start, Instagram clip materials, learn in public |
+| [周越英语学习法_阅读.md](周越英语学习法_阅读.md) | 五级骨架递进法：骨架留英文、生词换中文，S1→S2→S3→原文 | Reading | Five-level skeleton-first reading: keep sentence skeletons in English, swap hard words for Chinese, then progressively restore English |
 
-## 核心发现 / Core Insight
+## 口语的 Core Insight / Speaking Core Insight
+
+**学习就是输出：讲不出来，就是没学会。** 所以口语方法从输出端倒推——用输出倒逼输入。素材从一句话开始，启动门槛拉到无限低；自己录口播发到自媒体上（learn in public），真实环境的压力和点赞评论的正反馈，同时到账。
+
+Learning = output: if you can't say it, you haven't learned it. So the method works backwards from output — output drives input. Start with one-sentence clips (near-zero threshold), record yourself and post publicly (learn in public): real pressure and real feedback arrive together.
+
+## 阅读的 Core Insight / Reading Core Insight
 
 读英文又慢又累，因为大脑里有三个进程在同时跑：
 
@@ -28,6 +34,8 @@ Reading English feels slow and exhausting because three cognitive processes run 
 **解法：先灭掉最大的那个。** 把生词全部换成中文，只留英文骨架，让大脑一次只干一件事。
 
 **The fix: kill the biggest process first.** Swap all hard words for Chinese, keep only the English skeleton, let the brain do one thing at a time.
+
+最近我又发现：一段纯英文稿，它的英文骨架、英文连接词本身很通顺、很简单，还隐含很多意思；但知识点、难点和关键信息，就用中文翻译。这样中英夹杂读起来速度非常快——**感觉兼顾了中英各自的优点。**
 
 ## 配套 Agent Skills / Companion Agent Skills
 
