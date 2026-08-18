@@ -8,13 +8,12 @@
 
 ---
 
-## 三篇文档 / The Three Documents
+## 两篇文档 / The Two Documents
 
 | 文档 | 内容 | Document | About |
 |---|---|---|---|
 | [周越英语学习法_阅读.md](周越英语学习法_阅读.md) | 五级骨架递进法：骨架留英文、生词换中文，S1→S2→S3→原文 | Reading | Five-level skeleton-first reading: keep sentence skeletons in English, swap hard words for Chinese, then progressively restore English |
-| [周越英语学习法_口语.md](周越英语学习法_口语.md) | 声音回路训练：听写→复述基本功 + AI 充当「懂你的妈妈」 | Speaking | Sound-loop training: dictation-then-retell drill + AI as the always-available "mother who gets you" |
-| [周越英语学习法_口语_learn-in-public.md](周越英语学习法_口语_learn-in-public.md) | 口语 v2：输出倒逼输入的口播循环系统——0 启动、IG 口播素材、learn in public | Speaking v2 | Output-driven speaking loop: zero-threshold start, Instagram clip materials, learn in public |
+| [周越英语学习法_口语.md](周越英语学习法_口语.md) | 输出倒逼输入的口播循环系统：0 启动、IG 口播素材、learn in public | Speaking | Output-driven speaking loop: zero-threshold start, Instagram clip materials, learn in public |
 
 ## 核心发现 / Core Insight
 
